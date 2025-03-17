@@ -58,8 +58,8 @@ The following fields are included in this template:
 
 ## How to Use This Template
 
-1. **Download the CSV file**: [Cloudflare DNS API Template CSV](cloudflare_dns_api_template_updated.csv)
-2. **Import into LastPass**: Use the CSV import feature in LastPass to create a structured custom item.
+1. **Download the MD file**: [Cloudflare DNS API Template MD](cloudflare-dns-token-lastpass.md)
+2. **Import into LastPass**: Use the MD import feature in LastPass to create a structured custom item.
 3. **Fill out the necessary fields**: Ensure all metadata is documented.
 4. **Maintain lifecycle management**: Regularly update token details, expiration dates, and revoke unused tokens.
 
@@ -72,7 +72,7 @@ The following fields are included in this template:
 
 ## Contribution Guidelines
 
-- If you need to update or add fields, modify both the CSV file and this README.
+- If you need to update or add fields, modify both the MD file and this README.
 - Follow the formatting standards for consistency.
 - Submit a pull request with a clear description of changes.
 
