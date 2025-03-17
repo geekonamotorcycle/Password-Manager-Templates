@@ -72,7 +72,6 @@ This repository provides **guidance on security frameworks and password manageme
 | Document | Description |
 |----------|------------|
 | 📘 [`Best-Practices-for-Password-Management.md`](./Best-Practices-for-Password-Management.md) | Covers **password security best practices, real-world case studies, and incident reporting protocols**. |
-| 📜 [`Regulatory-and-Compliance-Frameworks.md`](./Regulatory-and-Compliance-Frameworks.md) | Provides **framework-specific compliance requirements** (e.g., **NIST, CISA, SOC 2, HIPAA, ISO 27001, CIS Controls**). |
 
 ---
 
