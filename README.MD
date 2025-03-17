@@ -51,7 +51,7 @@ The **AWS IAM SES Keys Template** is structured for securely storing **Amazon Si
 
 It follows **LastPass field types** to ensure **compatibility and security**.  
 
-📄 **Reference:** [`aws-iam-ses-keys-template/README.md`](./aws-iam-ses-keys-template/lastpass/README.MD)  
+📄 **Reference:** [`aws-iam-ses-keys-template/README.md`](./aws-iam-ses-keys-template/lastpass/README.md)  
 
 ---
 
