@@ -56,13 +56,6 @@ The following fields are included in this template:
 - **Last Used Date**: Helps identify stale or unused API tokens.
 - **Token Storage Location**: Where the API token is securely stored (e.g., Vault, HashiCorp Vault).
 
-## How to Use This Template
-
-1. **Download the MD file**: [Cloudflare DNS API Template MD](cloudflare-dns-token-lastpass.md)
-2. **Import into LastPass**: Use the MD import feature in LastPass to create a structured custom item.
-3. **Fill out the necessary fields**: Ensure all metadata is documented.
-4. **Maintain lifecycle management**: Regularly update token details, expiration dates, and revoke unused tokens.
-
 ## Best Practices
 
 - Rotate API tokens periodically based on the **Rotation Schedule**.
