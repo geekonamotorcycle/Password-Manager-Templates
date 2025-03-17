@@ -31,7 +31,7 @@ This template is designed with **LastPass-supported field types** to ensure stru
 
 ## Template File
 
-The full template is available in [`aws-iam-ses-keys-template-lastpass.md`](./aws-iam-ses-keys-template-lastpass.md).
+The full template is available in [`aws-iam-ses-keys-template-lastpass.md`](./aws-iam-ses-keys-template.md).
 
 ---
 
